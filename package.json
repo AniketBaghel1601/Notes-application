@@ -2,7 +2,7 @@
   "name": "full-stack-application",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "backend/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "nodemon backend/index.js"
@@ -16,5 +16,14 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.0.4",
     "nodemon": "^3.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniketBaghel1601/Notes-application.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AniketBaghel1601/Notes-application/issues"
+  },
+  "homepage": "https://github.com/AniketBaghel1601/Notes-application#readme"
 }
